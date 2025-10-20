@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p149152-e1521595.adobeaemcloud.com/bin/franklin.delivery/GracelynnBryant/gracelynntestsite/main"
+    url: "https://author-p149152-e1521584.adobeaemcloud.com/bin/franklin.delivery/GracelynnBryant/gracelynntestsite/main"
     type: "markup"
     suffix: ".html"
