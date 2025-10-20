@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/gracelynntestsite/:/",
+    "/content/gracelynntestsite/configuration:/.helix/config.json",
+    "/content/gracelynntestsite/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/gracelynntestsite/"
   ]
 }
